@@ -1,0 +1,18 @@
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.*
+!.env.example
