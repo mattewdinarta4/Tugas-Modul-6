@@ -5,11 +5,9 @@ Proyek Sistem Rekam Medis Digital (**Klinik Sehat**) dikembangkan oleh tim beran
 
 ## Anggota Tim & Peran
 * **Stanislaus Mattew Nathaniel Dinarta** - Repo Maintainer & PRD: Tech & Components
-* **Muhammad Rafli Rinaldy (Anda)** - README & PR Reviewer
-* **Octany Krystyn Damanik** - PRD: Tech & Components
+* **Muhammad Rafli Rinaldy** - README & PR Reviewer
+* **Octany Krystyn Damanik** - PRD: Scope & User Flow
 * **Rifky Andrean** - PRD: Scope & User Flow
 
 ## Tautan Proyek
-* [Link Figma Prototype Modul 5][def]
-
-[def]: https://www.figma.com/proto/qlz0LK5quzFae4y6pBnpdz/wireframe?node-id=195-1208&t=bz0WgPuVeBjljnJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=170%3A228&starting-point-node-id=281%3A2691
+* [Link Figma Prototype Modul 5](https://www.figma.com/proto/qlz0LK5quzFae4y6pBnpdz/wireframe?node-id=195-1208&t=bz0WgPuBeBj1nJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=170%3A228&node-id=281%3A2691)
